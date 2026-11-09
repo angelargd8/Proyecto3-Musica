@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{af6aa033-149d-4e46-a846-23bd4d870f0b}">
+		<property name="assetPath">
+			<value>Vox/Vox loop 02 (120BPM).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2456728926</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{72de5c1e-08ca-4fd3-8f7e-9dfb790d63e5}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{72de5c1e-08ca-4fd3-8f7e-9dfb790d63e5}">
+		<relationship name="assetMarkers">
+			<destination>{1c8ef76b-4c24-419c-bc64-92f4b0b5e20f}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{1c8ef76b-4c24-419c-bc64-92f4b0b5e20f}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+</objects>

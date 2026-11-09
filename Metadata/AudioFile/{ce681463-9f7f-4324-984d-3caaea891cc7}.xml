@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{ce681463-9f7f-4324-984d-3caaea891cc7}">
+		<property name="assetPath">
+			<value>Strings/Strings Trill 03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2461955631</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{fde578eb-af6c-4a20-9b3d-cf682d10959e}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{fde578eb-af6c-4a20-9b3d-cf682d10959e}">
+		<relationship name="assetMarkers">
+			<destination>{bd2f2956-83af-4986-8df8-d8afa56185cf}</destination>
+			<destination>{3e6c5241-ea05-406c-bdf7-36088e06b5f8}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{bd2f2956-83af-4986-8df8-d8afa56185cf}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+	<object class="AssetMarker" id="{3e6c5241-ea05-406c-bdf7-36088e06b5f8}">
+		<property name="name">
+			<value>Marker 1</value>
+		</property>
+	</object>
+</objects>

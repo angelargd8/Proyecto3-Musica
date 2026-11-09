@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{b950d4bc-69bd-4f37-bd53-830a843cf2c5}">
+		<property name="assetPath">
+			<value>Impacts/Impact 02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.3739229024943311</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2456728926</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{830a189f-94d1-44b4-8624-876cd54ad5df}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{830a189f-94d1-44b4-8624-876cd54ad5df}">
+		<relationship name="assetMarkers">
+			<destination>{d240fa22-36a3-41ab-a495-7d42c25adad1}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{d240fa22-36a3-41ab-a495-7d42c25adad1}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+</objects>

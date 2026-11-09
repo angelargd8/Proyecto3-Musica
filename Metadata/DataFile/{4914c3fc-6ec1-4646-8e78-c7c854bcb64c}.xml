@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="DataFile" id="{4914c3fc-6ec1-4646-8e78-c7c854bcb64c}">
+		<property name="assetPath">
+			<value>Crafting_Mining_Sampler/README.md</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+	</object>
+</objects>

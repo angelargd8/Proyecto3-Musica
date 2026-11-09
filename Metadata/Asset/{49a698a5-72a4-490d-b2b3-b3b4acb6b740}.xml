@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="EncodableAsset" id="{49a698a5-72a4-490d-b2b3-b3b4acb6b740}">
+		<property name="assetPath">
+			<value>Crafting_Mining_Sampler/WAV/05_Machines/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+	</object>
+</objects>

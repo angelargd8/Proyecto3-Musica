@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="DataFile" id="{3e99859f-2d9e-47a2-8e6e-b40d804c99f0}">
+		<property name="assetPath">
+			<value>Crafting_Mining_Sampler/LICENSE.txt</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+	</object>
+</objects>

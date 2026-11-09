@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{bf2ef80f-dac7-43bf-acbe-86be03987366}">
+		<property name="assetPath">
+			<value>Bass/Bass Loop 07 (120BPM)_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.346848072562359</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2456728926</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{518ef1bb-d588-4ab9-bc34-740264f51bac}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{518ef1bb-d588-4ab9-bc34-740264f51bac}">
+		<relationship name="assetMarkers">
+			<destination>{3b268124-3c5a-4ba7-8360-2c475d3291e4}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{3b268124-3c5a-4ba7-8360-2c475d3291e4}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+</objects>

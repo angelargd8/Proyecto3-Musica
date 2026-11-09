@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{733f2fd8-6930-4929-a897-54a15149e17d}">
+		<property name="assetPath">
+			<value>Synths/Synth Block Loop 02 (120BPM)_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.346848072562359</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2456728926</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{0f42f0c2-2005-4202-8879-3e92e56bd2ba}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{0f42f0c2-2005-4202-8879-3e92e56bd2ba}">
+		<relationship name="assetMarkers">
+			<destination>{ac9a6602-929c-4965-a38c-365e0ce5ce14}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{ac9a6602-929c-4965-a38c-365e0ce5ce14}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+</objects>

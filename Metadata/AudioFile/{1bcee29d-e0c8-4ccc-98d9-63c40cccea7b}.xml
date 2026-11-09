@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{1bcee29d-e0c8-4ccc-98d9-63c40cccea7b}">
+		<property name="assetPath">
+			<value>Stings/Noise Sting 02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2461955631</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{59de7250-4234-4c11-830a-cd4ba48f9368}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{59de7250-4234-4c11-830a-cd4ba48f9368}">
+		<relationship name="assetMarkers">
+			<destination>{820a0933-8b5d-4557-99a1-22af0b14e452}</destination>
+			<destination>{94c26238-4de5-49ab-8d9e-38c4d6668dc7}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{820a0933-8b5d-4557-99a1-22af0b14e452}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+	<object class="AssetMarker" id="{94c26238-4de5-49ab-8d9e-38c4d6668dc7}">
+		<property name="name">
+			<value>Marker 1</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{7e185d79-9fef-4433-ab36-eb540a76e6bb}">
+		<property name="assetPath">
+			<value>Drums/Drama Drums 19 (120BPM).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.100000000000001</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>2461955631</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{dcae1255-ff0b-4dad-90cb-21ce76e81f56}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{dcae1255-ff0b-4dad-90cb-21ce76e81f56}">
+		<relationship name="assetMarkers">
+			<destination>{e73a7bb0-ea97-491f-b0b1-b9be0f786325}</destination>
+			<destination>{1e63cfe3-f396-44e4-be23-f1d969baa9c4}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{e73a7bb0-ea97-491f-b0b1-b9be0f786325}">
+		<property name="name">
+			<value>Tempo: 120.0</value>
+		</property>
+	</object>
+	<object class="AssetMarker" id="{1e63cfe3-f396-44e4-be23-f1d969baa9c4}">
+		<property name="name">
+			<value>Marker 1</value>
+		</property>
+	</object>
+</objects>

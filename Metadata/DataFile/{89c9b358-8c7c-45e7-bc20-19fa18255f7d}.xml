@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="DataFile" id="{89c9b358-8c7c-45e7-bc20-19fa18255f7d}">
+		<property name="assetPath">
+			<value>Crafting_Mining_Sampler/Inventory.csv</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+	</object>
+</objects>
