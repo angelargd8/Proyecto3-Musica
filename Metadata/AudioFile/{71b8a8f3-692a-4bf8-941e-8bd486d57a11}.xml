@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{71b8a8f3-692a-4bf8-941e-8bd486d57a11}">
+		<property name="assetPath">
+			<value>MOTIVOPRINCIPAL2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>56.326520833333333</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>3797241852</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{94402d45-e1b6-4c99-877a-e3a539f96ea0}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{94402d45-e1b6-4c99-877a-e3a539f96ea0}">
+		<relationship name="assetMarkers">
+			<destination>{1d4f7455-68fd-44eb-82ef-367869505ae2}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{1d4f7455-68fd-44eb-82ef-367869505ae2}">
+		<property name="name">
+			<value>Tempo: 98.0</value>
+		</property>
+	</object>
+</objects>

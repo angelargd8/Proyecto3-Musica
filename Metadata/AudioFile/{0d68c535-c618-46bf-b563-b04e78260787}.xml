@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{0d68c535-c618-46bf-b563-b04e78260787}">
+		<property name="assetPath">
+			<value>BaseExpnew.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>19.591833333333334</value>
+		</property>
+		<property name="embeddedMetadataTagsHash">
+			<value>3797241852</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+		<relationship name="metadataTags">
+			<destination>{c11c306c-a1c0-4677-b16f-1abf01601132}</destination>
+		</relationship>
+	</object>
+	<object class="MetadataTags" id="{c11c306c-a1c0-4677-b16f-1abf01601132}">
+		<relationship name="assetMarkers">
+			<destination>{e3b7f13a-c59c-42a1-ab5d-ac900d231bc2}</destination>
+		</relationship>
+	</object>
+	<object class="AssetMarker" id="{e3b7f13a-c59c-42a1-ab5d-ac900d231bc2}">
+		<property name="name">
+			<value>Tempo: 98.0</value>
+		</property>
+	</object>
+</objects>
