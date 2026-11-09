@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{a3f1a086-b13c-4c9a-8705-f383db2eef21}">
+		<property name="assetPath">
+			<value>sounds/heartbeats-61.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>125.82316666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+	</object>
+</objects>

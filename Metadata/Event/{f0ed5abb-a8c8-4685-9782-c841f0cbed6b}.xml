@@ -328,7 +328,7 @@
 	</object>
 	<object class="SingleSound" id="{540791ba-16ca-44f6-b981-0b002ab7d7c8}">
 		<property name="start">
-			<value>7.937687074829932</value>
+			<value>7.148934240362812</value>
 		</property>
 		<property name="length">
 			<value>0.74312500000000004</value>
@@ -342,7 +342,7 @@
 	</object>
 	<object class="SingleSound" id="{9befa834-8dd6-440a-b8ba-221b71b2e94d}">
 		<property name="start">
-			<value>12.078639455782312</value>
+			<value>12.473015873015871</value>
 		</property>
 		<property name="length">
 			<value>0.62979166666666586</value>
@@ -386,7 +386,7 @@
 	</object>
 	<object class="SingleSound" id="{9ff7e3a9-f3b3-4983-9a1c-518c17730c83}">
 		<property name="start">
-			<value>10</value>
+			<value>10.106757369614513</value>
 		</property>
 		<property name="length">
 			<value>0.74312499999999915</value>
@@ -411,7 +411,7 @@
 	</object>
 	<object class="SingleSound" id="{504320ba-ddb9-4172-9153-2b7522ec9556}">
 		<property name="start">
-			<value>13.875</value>
+			<value>14.375</value>
 		</property>
 		<property name="length">
 			<value>0.74312499999999915</value>
