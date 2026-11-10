@@ -16,20 +16,19 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>5</value>
+			<value>4</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Principal</value>
+			<value>Exploracion</value>
 			<value>Peligro</value>
 			<value>Descubrimiento</value>
-			<value>Exploracion</value>
 			<value>Death</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
 		</property>
 		<property name="initialValue">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="isExposedRecursively">
 			<value>false</value>
