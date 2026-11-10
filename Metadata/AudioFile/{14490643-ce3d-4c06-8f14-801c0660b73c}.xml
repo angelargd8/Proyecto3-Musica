@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{14490643-ce3d-4c06-8f14-801c0660b73c}">
+		<property name="assetPath">
+			<value>Drums/Combate_Drums.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a7672c1b-87c4-445f-b049-47a26b97812c}</destination>
+		</relationship>
+	</object>
+</objects>
